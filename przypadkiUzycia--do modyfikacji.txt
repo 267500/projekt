@@ -1,0 +1,50 @@
+I. Wprowadzenie danych pacjenta do bazy
+
+1. Logowanie do bazy danych pacjentów.
+2. Przeprowadzenie wywiadu œrodowiskowego.
+3. Zapisanie danych do bazy.
+4. System weryfikuje poprawnoœæ danych.
+
+Rozszerzenie:
+2.1. Przeprowadzenie podstawowych badañ maj¹cych na celu m.in. zbadanie grupy
+krwi, uczuleñ.
+
+II. Wprowadzenie/aktualizacja historii chorób
+
+1. Logowanie do bazy danych pacjentów.
+2. Wprowadzenie aktualnej diagnozy i zastosowanych leków u pacjenta.
+3. System weryfikuje poprawnoœæ danych.
+
+III. Badania specjalistyczne
+
+1. Zlecenie wykonania badania.
+2. Ustalenie konkretnego terminu badania.
+3. Badanie w³aœciwe.
+4. Wys³anie wyników do lekarza.
+
+IV. Sprawdzanie ubezpieczenia
+
+1. Logowanie do bazy danych.
+2. Wyszukanie pacjenta.
+3. Po³¹czenie z zewnêtrznym serwerem NFZ.
+4. Weryfikacja i ewentualnie aktualizacja danych ubezpieczenia pacjenta.
+
+Rozszerzenie:
+4.1. Sprawdzenie wa¿noœci ubezpieczenia.
+
+V. Udzielanie informacji rodzinie pacjenta
+
+1. Logowanie do bazy danych.
+2. Wyszukanie pacjenta.
+3. Udzielenie informacji.
+
+VI. Wypisanie recepty
+1. Logowanie do bazy danych.
+2. Wyszukanie pacjenta.
+3. Przepisanie leków pacjentowi.
+4. Aktualizacja bazy leków.
+5. Wprowadzenie zastosowanych leków u pacjenta.
+6. Wydrukowanie recepty.
+
+Rozszerzenie
+1.1. Logowanie do bazy leków.
